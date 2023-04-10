@@ -20,19 +20,13 @@ useEffect(() => {
 }, [sammoned])
 ```
 
-### Technologies and Tools 🛠️
+### Software Stack 🛠️
 
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
 
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-</div>
-<div>
-
-#### Technologies
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs)](https://skillicons.dev)
+#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs)](https://skillicons.dev)
 
 </div>
 <div>
